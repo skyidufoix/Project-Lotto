@@ -1,1 +1,1 @@
-# Projects-Lotto
+# Project-Lotto
